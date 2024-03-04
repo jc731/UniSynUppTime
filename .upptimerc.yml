@@ -1,32 +1,114 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: UniSyn/jc731
+repo: UniSynUppTime 
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: UniSyn Home Page
+    url: https://www.unisyntechnologies.com
+    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+  - name: UniSyn API
+    url: https://api.unisyntechnologies.com
+    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+  - name: 3 Guys Concrete
+    url: http://3guysconcretellc.com
+  - name: A Hunt Design
+    url: https://www.ahuntdesign.com/
+  - name: Butter Book
+    url: https://member.thebutterbook.com/
+  - name: Champaign County Environmental Stewards
+    url: https://www.ccenvstew.com/
+  - name: Confidentially Yours
+    url: https://cybras.com
+  - name: Core40
+    url: https://www.core-40.com/
+  - name: CU flowerhouse
+    url: https://www.thecuflowerhouse.com/
+  - name: Custom Flooring & Interior
+    url: https://www.customflooringinteriors.com/
+  - name: D1 Networks
+    url: https://www.d1networks-inc.com/
+  - name: Dr. G Brainworks
+    url: https://www.drgsbrainworks.com/
+  - name: Elite ITC Services
+    url: https://www.elite-ict.com/
+  - name: Elmhurst Chicago Stone
+    url: https://www.ecstone.com/
+  - name: Evergreen Senior Living
+    url: https://evergreenslc.com/
+  - name: Fairwood Sustainability
+    url: https://www.fairwoodsustainability.com/
+  - name: Farm Link
+    url: https://www.illinoisfarmlink.org/
+  - name: FocusOPEX
+    url: https://www.focusopex.com/
+  - name: Green Tree Pharmacy
+    url: https://greentreepharm.com/
+  - name: H2 Cartage
+    url: https://www.h2cartage.com/
+  - name: Heritage Operations Group
+    url: https://heritageofcare.com/
+  - name: Heritage Operations Group Employee Portal
+    url: https://employeeofheritage.com/
+  - name: Hoopeston
+    url: https://hoopeston.unisyntechnologies.com
+  - name: Illinois Lets Rock
+    url: https://www.letsrockillinois.com/
+  - name: ILFMA
+    url: https://www.ilfma.org/
+  - name: Illinois Asphalt Pavement Association
+    url: https://www.rethinkasphalt.com/
+  - name: Inspire Your
+    url: https://www.inspireyour.com/
+  - name: Iowa - Lets Rock
+    url: https://www.letsrockiowa.com/
+  - name: KeepUsSafe
+    url: https://www.keepussafe.app/
+  - name: KleenRite
+    url: https://www.kleenrite.net
+  - name: Land Connection
+    url: https://www.thelandconnection.org/
+  - name: Lets Rock Minnesota
+    url: https://www.letsrockminnesota.com
+  - name: Lets Rock Missouri
+    url: https://www.letsrockmissouri.com/
+  - name: Orland Park
+    url: https://evergreenslc.com/orlandpark
+  - name: Pan & Cake Catering Co
+    url: https://www.panandcakecatering.com/
+  - name: Parke Warehouses
+    url: https://www.parkewarehouses.com/
+  - name: Photonicare
+    url: https://photoni.care
+  - name: Sage City Market
+    url: https://www.sagecitymarket.com
+  - name: Salon House
+    url: https://www.thesalonhouse.com/
+  - name: Stone Face Manor
+    url: https://www.stonefacemanor.com/
+  - name: Taco Grill
+    url: https://www.tacogrillsalsabar.com/
+  - name: Taylor Construction
+    url: http://buildwithtaylor.com
+  - name: Tuscola Community Foundation
+    url: https://www.tuscolafoundation.org/
+  - name: Urbana Parks Foundation
+    url: https://www.urbanaparksfoundation.org/
+  - name: Villas Senior Care Community
+    url: https://villasseniorcare.com/
+  - name: Worksource
+    url: https://www.workse.org
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15154926/unisyn-logo.png
+  name: UniSyn Technologies
+  introTitle: "**UniSyn** is local web design and development team, specializing in high quality websites and applications!"
+  introMessage: This is our status page, here we (and you) can monitor the status of our sites, services, and applications to see just how dedicated we are to high availability in our hosting. 
   navbar:
+    - title: UniSyn
+      href: https://www.unisyntechnologies.com
     - title: Status
       href: /
     - title: GitHub
