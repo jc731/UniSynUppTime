@@ -130,18 +130,20 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1765,
     "timeDay": 1674,
     "timeWeek": 1765,
     "timeMonth": 1765,
     "timeYear": 1765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 2
+    }
   },
   {
     "name": "CU flowerhouse",
@@ -238,18 +240,20 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2084,
     "timeDay": 2640,
     "timeWeek": 2084,
     "timeMonth": 2084,
     "timeYear": 2084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 1
+    }
   },
   {
     "name": "Evergreen Senior Living",
@@ -346,18 +350,20 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1745,
-    "timeDay": 1742,
-    "timeWeek": 1745,
-    "timeMonth": 1745,
-    "timeYear": 1745,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2742,
+    "timeDay": 5734,
+    "timeWeek": 2742,
+    "timeMonth": 2742,
+    "timeYear": 2742,
+    "dailyMinutesDown": {
+      "2024-03-08": 1
+    }
   },
   {
     "name": "Heritage Operations Group",
