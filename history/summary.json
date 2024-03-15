@@ -130,18 +130,20 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1823,
     "timeDay": 1681,
     "timeWeek": 1881,
     "timeMonth": 1823,
     "timeYear": 1823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 3
+    }
   },
   {
     "name": "CU flowerhouse",
@@ -238,18 +240,20 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2091,
     "timeDay": 2746,
     "timeWeek": 2099,
     "timeMonth": 2091,
     "timeYear": 2091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 2
+    }
   },
   {
     "name": "Evergreen Senior Living",
@@ -346,18 +350,20 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2197,
     "timeDay": 1608,
     "timeWeek": 2592,
     "timeMonth": 2197,
     "timeYear": 2197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "Heritage Operations Group",
@@ -544,10 +550,10 @@
     "url": "https://www.thelandconnection.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
@@ -555,7 +561,9 @@
     "timeWeek": 534,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "Lets Rock Minnesota",
