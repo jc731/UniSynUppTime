@@ -130,18 +130,20 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1738,
     "timeDay": 1815,
     "timeWeek": 1613,
     "timeMonth": 1738,
     "timeYear": 1738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 2
+    }
   },
   {
     "name": "CU flowerhouse",
@@ -238,18 +240,20 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2405,
-    "timeDay": 2069,
-    "timeWeek": 2751,
-    "timeMonth": 2405,
-    "timeYear": 2405,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2943,
+    "timeDay": 7623,
+    "timeWeek": 3910,
+    "timeMonth": 2943,
+    "timeYear": 2943,
+    "dailyMinutesDown": {
+      "2024-03-19": 2
+    }
   },
   {
     "name": "Evergreen Senior Living",
