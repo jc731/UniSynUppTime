@@ -350,19 +350,19 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2133,
-    "timeDay": 2498,
-    "timeWeek": 1781,
-    "timeMonth": 2133,
-    "timeYear": 2133,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2157,
+    "timeDay": 2551,
+    "timeWeek": 1869,
+    "timeMonth": 2157,
+    "timeYear": 2157,
     "dailyMinutesDown": {
-      "2024-03-19": 1
+      "2024-03-19": 9
     }
   },
   {
