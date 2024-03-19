@@ -350,18 +350,20 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2047,
-    "timeDay": 1153,
-    "timeWeek": 1523,
-    "timeMonth": 2047,
-    "timeYear": 2047,
-    "dailyMinutesDown": {}
+    "time": 2133,
+    "timeDay": 2498,
+    "timeWeek": 1781,
+    "timeMonth": 2133,
+    "timeYear": 2133,
+    "dailyMinutesDown": {
+      "2024-03-19": 1
+    }
   },
   {
     "name": "Heritage Operations Group",
@@ -459,19 +461,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rethinkasphalt.com.ico",
     "slug": "illinois-asphalt-pavement-association",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1784,
     "timeDay": 1897,
     "timeWeek": 1790,
     "timeMonth": 1784,
     "timeYear": 1784,
-    "dailyMinutesDown": {
-      "2024-03-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inspire Your",
