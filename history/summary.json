@@ -130,19 +130,19 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1738,
-    "timeDay": 1815,
-    "timeWeek": 1613,
-    "timeMonth": 1738,
-    "timeYear": 1738,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1739,
+    "timeDay": 1784,
+    "timeWeek": 1629,
+    "timeMonth": 1739,
+    "timeYear": 1739,
     "dailyMinutesDown": {
-      "2024-03-19": 2
+      "2024-03-19": 31
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2943,
-    "timeDay": 7623,
-    "timeWeek": 3910,
-    "timeMonth": 2943,
-    "timeYear": 2943,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 2890,
+    "timeDay": 5689,
+    "timeWeek": 3701,
+    "timeMonth": 2890,
+    "timeYear": 2890,
     "dailyMinutesDown": {
-      "2024-03-19": 2
+      "2024-03-19": 31
     }
   },
   {
