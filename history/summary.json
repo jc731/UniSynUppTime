@@ -458,19 +458,19 @@
     "url": "https://www.rethinkasphalt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rethinkasphalt.com.ico",
     "slug": "illinois-asphalt-pavement-association",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1754,
-    "timeDay": 1696,
-    "timeWeek": 1726,
-    "timeMonth": 1754,
-    "timeYear": 1754,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1784,
+    "timeDay": 1897,
+    "timeWeek": 1790,
+    "timeMonth": 1784,
+    "timeYear": 1784,
     "dailyMinutesDown": {
-      "2024-03-19": 1
+      "2024-03-19": 9
     }
   },
   {
