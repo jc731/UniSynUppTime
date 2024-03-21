@@ -130,18 +130,19 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1671,
     "timeDay": 1045,
     "timeWeek": 1437,
     "timeMonth": 1671,
     "timeYear": 1671,
     "dailyMinutesDown": {
+      "2024-03-21": 3,
       "2024-03-19": 31
     }
   },
@@ -240,18 +241,19 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 2756,
     "timeDay": 1717,
     "timeWeek": 3685,
     "timeMonth": 2756,
     "timeYear": 2756,
     "dailyMinutesDown": {
+      "2024-03-21": 2,
       "2024-03-19": 31
     }
   },
@@ -279,19 +281,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fairwoodsustainability.com.ico",
     "slug": "fairwood-sustainability",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1314,
     "timeDay": 1221,
     "timeWeek": 1416,
     "timeMonth": 1314,
     "timeYear": 1314,
-    "dailyMinutesDown": {
-      "2024-03-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Farm Link",
@@ -352,18 +352,20 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2158,
     "timeDay": 2020,
     "timeWeek": 2045,
     "timeMonth": 2158,
     "timeYear": 2158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "Heritage Operations Group",
@@ -497,19 +499,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockiowa.com.ico",
     "slug": "iowa-lets-rock",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2649,
     "timeDay": 2173,
     "timeWeek": 2610,
     "timeMonth": 2649,
     "timeYear": 2649,
-    "dailyMinutesDown": {
-      "2024-03-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KeepUsSafe",
@@ -517,19 +517,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.keepussafe.app.ico",
     "slug": "keep-us-safe",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1364,
     "timeDay": 1357,
     "timeWeek": 1424,
     "timeMonth": 1364,
     "timeYear": 1364,
-    "dailyMinutesDown": {
-      "2024-03-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KleenRite",
@@ -554,10 +552,10 @@
     "url": "https://www.thelandconnection.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
@@ -565,7 +563,9 @@
     "timeWeek": 560,
     "timeMonth": 560,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "Lets Rock Minnesota",
@@ -789,19 +789,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.urbanaparksfoundation.org.ico",
     "slug": "urbana-parks-foundation",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1279,
     "timeDay": 2503,
     "timeWeek": 1512,
     "timeMonth": 1279,
     "timeYear": 1279,
-    "dailyMinutesDown": {
-      "2024-03-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Villas Senior Care Community",
