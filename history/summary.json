@@ -278,18 +278,20 @@
     "url": "https://www.fairwoodsustainability.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairwoodsustainability.com.ico",
     "slug": "fairwood-sustainability",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1308,
     "timeDay": 1014,
     "timeWeek": 1415,
     "timeMonth": 1308,
     "timeYear": 1308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 2
+    }
   },
   {
     "name": "Farm Link",
@@ -494,28 +496,30 @@
     "url": "https://www.letsrockiowa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockiowa.com.ico",
     "slug": "iowa-lets-rock",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2653,
     "timeDay": 1774,
     "timeWeek": 2615,
     "timeMonth": 2653,
     "timeYear": 2653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "KeepUsSafe",
     "url": "https://www.keepussafe.app/",
     "icon": "https://icons.duckduckgo.com/ip3/www.keepussafe.app.ico",
     "slug": "keep-us-safe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1369,
@@ -523,7 +527,9 @@
     "timeWeek": 1444,
     "timeMonth": 1369,
     "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "KleenRite",
@@ -782,18 +788,20 @@
     "url": "https://www.urbanaparksfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbanaparksfoundation.org.ico",
     "slug": "urbana-parks-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 933,
-    "timeWeek": 1004,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 1281,
+    "timeDay": 3133,
+    "timeWeek": 1545,
+    "timeMonth": 1281,
+    "timeYear": 1281,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "Villas Senior Care Community",
