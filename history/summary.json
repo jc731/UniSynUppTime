@@ -58,18 +58,20 @@
     "url": "https://www.ahuntdesign.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ahuntdesign.com.ico",
     "slug": "a-hunt-design",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2205,
     "timeDay": 2109,
     "timeWeek": 2295,
     "timeMonth": 2205,
     "timeYear": 2205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 2
+    }
   },
   {
     "name": "Butter Book",
@@ -131,18 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1668,
     "timeDay": 1325,
     "timeWeek": 1454,
     "timeMonth": 1668,
     "timeYear": 1668,
     "dailyMinutesDown": {
-      "2024-03-21": 8,
       "2024-03-19": 31
     }
   },
@@ -151,10 +152,10 @@
     "url": "https://www.thecuflowerhouse.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thecuflowerhouse.com.ico",
     "slug": "cu-flowerhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1324,
@@ -162,7 +163,9 @@
     "timeWeek": 1408,
     "timeMonth": 1324,
     "timeYear": 1324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "Custom Flooring & Interior",
@@ -242,18 +245,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 2730,
     "timeDay": 1924,
     "timeWeek": 3544,
     "timeMonth": 2730,
     "timeYear": 2730,
     "dailyMinutesDown": {
-      "2024-03-21": 7,
       "2024-03-19": 31
     }
   },
@@ -305,7 +307,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1787,
-    "timeDay": 1634,
+    "timeDay": 1513,
     "timeWeek": 1689,
     "timeMonth": 1787,
     "timeYear": 1787,
@@ -353,19 +355,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2142,
     "timeDay": 1886,
     "timeWeek": 2018,
     "timeMonth": 2142,
     "timeYear": 2142,
-    "dailyMinutesDown": {
-      "2024-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heritage Operations Group",
@@ -553,19 +553,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 550,
     "timeDay": 446,
     "timeWeek": 538,
     "timeMonth": 550,
     "timeYear": 550,
-    "dailyMinutesDown": {
-      "2024-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lets Rock Minnesota",
@@ -741,7 +739,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1478,
-    "timeDay": 1043,
+    "timeDay": 1115,
     "timeWeek": 1255,
     "timeMonth": 1478,
     "timeYear": 1478,
