@@ -138,7 +138,7 @@
     "uptimeYear": "99.82%",
     "time": 1649,
     "timeDay": 1739,
-    "timeWeek": 1602,
+    "timeWeek": 1601,
     "timeMonth": 1649,
     "timeYear": 1649,
     "dailyMinutesDown": {
@@ -249,7 +249,7 @@
     "uptimeYear": "99.82%",
     "time": 2488,
     "timeDay": 2084,
-    "timeWeek": 1871,
+    "timeWeek": 1842,
     "timeMonth": 2488,
     "timeYear": 2488,
     "dailyMinutesDown": {
@@ -290,7 +290,7 @@
     "uptimeYear": "100.00%",
     "time": 1260,
     "timeDay": 1201,
-    "timeWeek": 1154,
+    "timeWeek": 1115,
     "timeMonth": 1260,
     "timeYear": 1260,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "99.91%",
     "time": 2061,
     "timeDay": 1983,
-    "timeWeek": 1830,
+    "timeWeek": 1838,
     "timeMonth": 2061,
     "timeYear": 2061,
     "dailyMinutesDown": {
@@ -397,11 +397,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/employeeofheritage.com.ico",
     "slug": "heritage-operations-group-employee-portal",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1967,
     "timeDay": 6044,
     "timeWeek": 2379,
@@ -488,10 +488,10 @@
     "url": "https://www.inspireyour.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.inspireyour.com.ico",
     "slug": "inspire-your",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3155,
@@ -499,7 +499,9 @@
     "timeWeek": 2442,
     "timeMonth": 3155,
     "timeYear": 3155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 2
+    }
   },
   {
     "name": "Iowa - Lets Rock",
@@ -514,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 2726,
     "timeDay": 3463,
-    "timeWeek": 2891,
+    "timeWeek": 2936,
     "timeMonth": 2726,
     "timeYear": 2726,
     "dailyMinutesDown": {}
@@ -532,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 1351,
     "timeDay": 996,
-    "timeWeek": 1311,
+    "timeWeek": 1315,
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {}
@@ -561,14 +563,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 538,
     "timeDay": 335,
-    "timeWeek": 496,
+    "timeWeek": 510,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
@@ -634,10 +636,10 @@
     "url": "https://www.panandcakecatering.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.panandcakecatering.com.ico",
     "slug": "pan-and-cake-catering-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1907,
@@ -645,7 +647,9 @@
     "timeWeek": 1922,
     "timeMonth": 1907,
     "timeYear": 1907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 1
+    }
   },
   {
     "name": "Parke Warehouses",
@@ -688,9 +692,9 @@
     "url": "https://www.sagecitymarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -699,7 +703,9 @@
     "timeWeek": 1568,
     "timeMonth": 1839,
     "timeYear": 1839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Salon House",
@@ -804,7 +810,7 @@
     "uptimeYear": "100.00%",
     "time": 1214,
     "timeDay": 788,
-    "timeWeek": 1530,
+    "timeWeek": 1028,
     "timeMonth": 1214,
     "timeYear": 1214,
     "dailyMinutesDown": {}
